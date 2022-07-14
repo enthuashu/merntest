@@ -1,4 +1,4 @@
-ls; //printing in javascript
+//printing in javascript
 console.log("Hey Js");
 
 // variable declaration, three ways, let,var,const
